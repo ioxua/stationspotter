@@ -12,5 +12,6 @@
     "dev": {
       "cache": false
     }
-  }
+  },
+  "globalEnv": ["GOOGLE_API_KEY"]
 }

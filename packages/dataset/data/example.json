@@ -1,0 +1,6 @@
+{
+    "stations": [
+        {"lat": -23.54236, "lng": -46.41555, "id": "guaianazes", "line": 11},
+        {"lat": -24.54236, "lng": -47.41555, "id": "itaquera", "line": 11}
+    ]
+}
