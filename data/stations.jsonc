@@ -1,0 +1,17 @@
+{
+    "stations": {
+        "guaianazes": {
+            "name": "Guaianazes",
+            "label": "Guaia\nnazes",
+            "lat": 1,
+            "lng": 2,
+            "extra": "info"
+        },
+        "antonio-gianetti": {
+            "name": "Antônio Gianetti Neto",
+            "lat": 1,
+            "lng": 2,
+            "extra": "info"
+        }
+    }
+}

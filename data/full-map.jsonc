@@ -1,0 +1,16 @@
+{
+    "11": {
+        "shift": [0, 0],
+        "nodes": [
+            {
+                "coords": [0, 0],
+                "station": "antonio-gianetti",
+                "label": {
+                    "pos": "w", // e n s nw ne sw se etc
+                    "shift": [0, 0]
+                    // "text": "Guaianazes?
+                }
+            }
+        ]
+    }
+}
